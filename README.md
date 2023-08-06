@@ -1,13 +1,7 @@
-# Sample Hardhat Project
+Deployed the contract at address 0xFec773C2A8390F0D668E83dB1c150b9404dfC708 with 2 options chocolate and vanilla
+Gave right to vote, voted and delegated.
 
-This project demonstrates a basic Hardhat use case. It comes with a sample contract, a test for that contract, and a script that deploys that contract.
+and the lucky winner is chocolate 
 
-Try running some of the following tasks:
-
-```shell
-npx hardhat help
-npx hardhat test
-REPORT_GAS=true npx hardhat test
-npx hardhat node
-npx hardhat run scripts/deploy.ts
-```
+Wallet balance 0.9989338114923939
+Winning proposal is: chocolate
